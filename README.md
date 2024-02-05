@@ -56,7 +56,7 @@ He trabajado en varios proyectos interesantes, algunos de los cuales puedes enco
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=OUHernandezAyala&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote
-<img align="right" alt="Coding" width="550" style="margin-right: 20px;" src="https://i.pinimg.com/originals/29/e8/3e/29e83ec4df87effb82a855988452819f.gif">
+<img align="right" alt="Coding" width="500" style="margin-right: 20px;" src="https://i.pinimg.com/originals/29/e8/3e/29e83ec4df87effb82a855988452819f.gif">
 
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
