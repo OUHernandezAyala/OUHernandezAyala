@@ -24,7 +24,7 @@
   - Seguridad: Conocimientos en normas ISO y buenas prácticas.
 
 ## 💼 Proyectos destacados
-
+<img align="left" alt="Coding" width="400" src="https://i.pinimg.com/originals/1f/9c/10/1f9c10920abea2a2f69f9b7efbcaaf59.gif">
 He trabajado en varios proyectos interesantes, algunos de los cuales puedes encontrar aquí:
 
 1. **[Nombre del Proyecto 1]**
