@@ -1,4 +1,4 @@
-![MasterHead](https://i.pinimg.com/originals/fa/e3/80/fae380da3f1b6201d482ac92b7ed4c12.gif)
+![MasterHead](https://i.redd.it/thj41ymmh0351.gif)
 ### Hi there 👋
 # ¡Bienvenido a mi perfil de GitHub! 👋
 
