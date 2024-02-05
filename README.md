@@ -9,7 +9,7 @@
 📚💡 Actualmente estoy aprendiendo frameworks avanzados de JavaScript como React.js y Node.js para profundizar mi comprensión del desarrollo front-end y back-end.<br><br>
 🎓💬 Pregúntame sobre desarrollo web, principios de ingeniería de software, metodologías de gestión de proyectos o cualquier cosa relacionada con tecnología y programación.<br><br>
 🏋️‍♂️💪 Disfruto explorando diferentes rutinas de entrenamiento y probando nuevos ejercicios en mi tiempo libre. El ejercicio no solo es una actividad para mí, sino también una forma de liberar estrés y desconectar de las sesiones de codificación.
-<img align="right" alt="Coding" width="400" src="https://community.aseprite.org/uploads/default/original/2X/1/1f2a86d10a2d321a9576c8e483cdeeb19e644875.gif")>
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/6d/78/71/6d78711d7c8438405ee8a5a50114f9ac.gif">
 ## 🚀 Mis habilidades
 - Desarrollo de software en:
   - Frontend: HTML, CSS, JavaScript, React
