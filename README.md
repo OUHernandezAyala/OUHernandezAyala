@@ -35,6 +35,10 @@
                                                                                             - Descripción breve del proyecto.
                                                                                             - Tecnologías utilizadas:
                                                                                             - [Enlace al proyecto o demo].
+                                                                                        3. **[Nombre del Proyecto 2]**
+                                                                                            - Descripción breve del proyecto.
+                                                                                            - Tecnologías utilizadas:
+                                                                                            - [Enlace al proyecto o demo].
 
 
 
