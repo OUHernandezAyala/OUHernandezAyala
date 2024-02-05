@@ -26,8 +26,8 @@
 ## 💼 Proyectos destacados
 
 <div style="overflow: auto;">
-    <div style="float: left; margin-right: 100px;">
-        <img align="left" alt="Coding" width="400" src="https://i.pinimg.com/originals/1f/9c/10/1f9c10920abea2a2f69f9b7efbcaaf59.gif">
+    <div style="float: left; margin-left: 100px;">
+        <img align="left" alt="Coding" width="350" src="https://i.pinimg.com/originals/1f/9c/10/1f9c10920abea2a2f69f9b7efbcaaf59.gif">
     </div>
     <div style="overflow: hidden;">
         He trabajado en varios proyectos interesantes, 
