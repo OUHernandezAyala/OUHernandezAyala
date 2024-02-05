@@ -26,20 +26,21 @@
 ## 💼 Proyectos destacados
 
 <div style="overflow: auto;">
-    <div style="float: left; margin-right: 20px;">
-        <img align="left" alt="Coding" width="300" src="https://i.pinimg.com/originals/1f/9c/10/1f9c10920abea2a2f69f9b7efbcaaf59.gif">
+    <div style="float: left; margin-right: 100px;">
+        <img align="left" alt="Coding" width="400" src="https://i.pinimg.com/originals/1f/9c/10/1f9c10920abea2a2f69f9b7efbcaaf59.gif">
     </div>
     <div style="overflow: hidden;">
-        He trabajado en varios proyectos interesantes, algunos de los cuales puedes encontrar aquí:
+        He trabajado en varios proyectos interesantes, 
+        algunos de los cuales puedes encontrar aquí:
         <br><br>
         1. **[Nombre del Proyecto 1]**
            - Descripción breve del proyecto.
-           - Tecnologías utilizadas: [Lista de tecnologías].
+           - Tecnologías utilizadas: 
            - [Enlace al proyecto o demo].
         <br><br>
         2. **[Nombre del Proyecto 2]**
            - Descripción breve del proyecto.
-           - Tecnologías utilizadas: [Lista de tecnologías].
+           - Tecnologías utilizadas:
            - [Enlace al proyecto o demo].
     </div>
 </div>
