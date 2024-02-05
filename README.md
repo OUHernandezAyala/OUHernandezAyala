@@ -1,5 +1,5 @@
 ![MasterHead](https://i.redd.it/thj41ymmh0351.gif)
-## Bienvenido a mi perfil de GitHub! 👋
+# Bienvenido a mi perfil de GitHub! 👋
 ## 💫 About Me:
 🔭⚡¡Hola! Soy Oscar Uriel, un desarrollador de software recién graduado en ingeniería en informática de UPIICSA, con un curso en 4Geeks para mejorar mis habilidades en desarrollo web. Además, tengo una pasantía en Ingeniería de Tráfico, Secretaría de Seguridad Ciudadana, CDMX, donde superviso y documento eventos de tráfico, optimizo el flujo de trabajo y aplico habilidades de comunicación efectiva.<br><br>
 🌐💻 Actualmente estoy enfocado en perfeccionar mis habilidades en desarrollo web full-stack y explorar nuevas tecnologías para mejorar mi experiencia en desarrollo de software.<br><br>🤝🚀 Estoy buscando colaborar en proyectos de código abierto relacionados con desarrollo web o ingeniería de software en general. También me interesa unirme a equipos que trabajen en proyectos innovadores que aborden problemas del mundo real.<br><br>
