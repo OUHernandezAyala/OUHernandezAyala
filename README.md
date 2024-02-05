@@ -25,7 +25,8 @@
 
 ## 💼 Proyectos destacados
 He trabajado en varios proyectos interesantes, algunos de los cuales puedes encontrar aquí:
-<img align="left" alt="Coding" width="500" style="margin-right: 20px;" src="https://i.pinimg.com/originals/1f/9c/10/1f9c10920abea2a2f69f9b7efbcaaf59.gif">
+
+<img align="left" alt="Coding" width="550" style="margin-right: 20px;" src="https://i.pinimg.com/originals/1f/9c/10/1f9c10920abea2a2f69f9b7efbcaaf59.gif">
 
                   1. **[Nombre del Proyecto 1]**
                      - Descripción breve del proyecto.
