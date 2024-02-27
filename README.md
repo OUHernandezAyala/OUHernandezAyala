@@ -1,30 +1,35 @@
-![MasterHead](https://i.redd.it/thj41ymmh0351.gif)
-# Bienvenido a mi perfil de GitHub! 👋
-## 💫 About Me:
-🔭⚡¡Hola! Soy Oscar Uriel, un desarrollador de software recién graduado en ingeniería en informática de UPIICSA, con un curso en 4Geeks para mejorar mis habilidades en desarrollo web. Además, tengo una pasantía en Ingeniería de Tráfico, Secretaría de Seguridad Ciudadana, CDMX, donde superviso y documento eventos de tráfico, optimizo el flujo de trabajo y aplico habilidades de comunicación efectiva.<br><br>
-🌐💻 Actualmente estoy enfocado en perfeccionar mis habilidades en desarrollo web full-stack y explorar nuevas tecnologías para mejorar mi experiencia en desarrollo de software.<br><br>🤝🚀 Estoy buscando colaborar en proyectos de código abierto relacionados con desarrollo web o ingeniería de software en general. También me interesa unirme a equipos que trabajen en proyectos innovadores que aborden problemas del mundo real.<br><br>
-🛠️📈 Busco ayuda para mantenerme actualizado sobre las últimas tendencias y mejores prácticas en desarrollo de software, especialmente en áreas como la computación en la nube, el aprendizaje automático y la ciberseguridad.<br><br>
-📚💡 Actualmente estoy aprendiendo frameworks avanzados de JavaScript como React.js y Node.js para profundizar mi comprensión del desarrollo front-end y back-end.<br><br>
-🎓💬 Pregúntame sobre desarrollo web, principios de ingeniería de software, metodologías de gestión de proyectos o cualquier cosa relacionada con tecnología y programación.<br><br>
-🏋️‍♂️💪 Disfruto explorando diferentes rutinas de entrenamiento y probando nuevos ejercicios en mi tiempo libre. El ejercicio no solo es una actividad para mí, sino también una forma de liberar estrés y desconectar de las sesiones de codificación.
+# MasterHead
+[![GIF](https://i.redd.it/thj41ymmh0351.gif)](https://i.redd.it/thj41ymmh0351.gif)
 
-## 🚀 Mis habilidades
+## Welcome to my GitHub profile! 👋
+
+### 💫 About me:
+🔭⚡Hello! I'm Oscar Uriel, a recent graduate software developer in computer engineering from UPIICSA, with a course at 4Geeks to enhance my skills in web development. Additionally, I have an internship in Traffic Engineering, Secretary of Citizen Security, CDMX, where I supervise and document traffic events, optimize workflow, and apply effective communication skills.<br><br>
+🌐💻 Currently, I'm focused on refining my skills in full-stack web development and exploring new technologies to enhance my software development experience.<br><br>
+🤝🚀 I'm looking to collaborate on open-source projects related to web development or software engineering in general. I'm also interested in joining teams working on innovative projects addressing real-world problems.<br><br>
+🛠️📈 I'm seeking assistance to stay updated on the latest trends and best practices in software development, especially in areas like cloud computing, machine learning, and cybersecurity.<br><br>
+📚💡 I'm currently learning advanced JavaScript frameworks like React.js and Node.js to deepen my understanding of front-end and back-end development.<br><br>
+🎓💬 Ask me about web development, software engineering principles, project management methodologies, or anything related to technology and programming.<br><br>
+🏋️‍♂️💪 I enjoy exploring different workout routines and trying out new exercises in my free time. Exercise is not just an activity for me but also a way to relieve stress and disconnect from coding sessions.
+
+## 🚀 My skills
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/6d/78/71/6d78711d7c8438405ee8a5a50114f9ac.gif">
-- Desarrollo de software en:
+
+- Software development in:
   - Frontend: HTML, CSS, JavaScript, React
   - Backend: Python, Flask
-  - Base de datos: SQL, SQLAlchemy
-  - Otros: Prolog, Ensamblador
+  - Database: SQL, SQLAlchemy
+  - Others: Prolog, Assembly
 
-- Experiencia en:
-  - Desarrollo web fullstack, desde la interfaz de usuario hasta el backend.
-  - Uso de SQL Management Studio para la administración de bases de datos.
+- Experience in:
+  - Full-stack web development, from user interface to backend.
+  - Using SQL Management Studio for database management.
 
-- Conocimientos en otras áreas relevantes:
-  - Seguridad: Conocimientos en normas ISO y buenas prácticas.
+- Knowledge in other relevant areas:
+  - Security: Knowledge in ISO standards and best practices.
 
-## 💼 Proyectos destacados
-He trabajado en varios proyectos interesantes, algunos de los cuales puedes encontrar aquí:
+## 💼 Featured projects
+I have worked on several interesting projects, some of which you can find here:
 
 <img align="left" alt="Coding" width="480" style="margin-right: 20px;" src="https://i.pinimg.com/originals/1f/9c/10/1f9c10920abea2a2f69f9b7efbcaaf59.gif">
 
