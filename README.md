@@ -1,4 +1,4 @@
-# MasterHead
+# Profile 
 [![GIF](https://i.redd.it/thj41ymmh0351.gif)](https://i.redd.it/thj41ymmh0351.gif)
 
 ## Welcome to my GitHub profile! 👋
