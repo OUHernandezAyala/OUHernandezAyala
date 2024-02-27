@@ -69,19 +69,8 @@ I have worked on several interesting projects, some of which you can find here:
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-¡Hola! Soy Oscar Uriel, un apasionado desarrollador de software que acaba de completar la carrera de ingeniería en informática en UPIICSA. Durante mi tiempo en la universidad, me enfoqué en adquirir conocimientos sólidos en diversas áreas, incluyendo:
+## 🌱 Continuous Learning
 
+I'm excited about my current learning journey at 4Geeks Academy and my ongoing path in software development.
 
-## 🌱 Aprendizaje continuo
-
-Estoy emocionado por mi actual etapa de aprendizaje en 4Geeks Academy y mi viaje continuo en el desarrollo de software.
-
-¡Gracias por visitar mi perfil! Espero que encuentres algo interesante aquí. 😊
-
-
-
-
-
-
-
-
+Thank you for visiting my profile! I hope you find something interesting here. 😊
