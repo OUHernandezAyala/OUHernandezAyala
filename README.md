@@ -3,7 +3,7 @@
 
 ## 
 ### 💫 About me:
-🔭⚡Hello! I'm Oscar Uriel, a recent graduate software developer in computer engineering from UPIICSA, with a course at 4Geeks to enhance my skills in web development. Additionally, I have an internship in Traffic Engineering, Secretary of Citizen Security, CDMX, where I supervise and document traffic events, optimize workflow, and apply effective communication skills.<br><br>
+🔭⚡My name is Oscar Uriel, a recent graduate software developer in computer engineering from UPIICSA, with a course at 4Geeks to enhance my skills in web development. Additionally, I have an internship in Traffic Engineering, Secretary of Citizen Security, CDMX, where I supervise and document traffic events, optimize workflow, and apply effective communication skills.<br><br>
 🌐💻 Currently, I'm focused on refining my skills in full-stack web development and exploring new technologies to enhance my software development experience.<br><br>
 🤝🚀 I'm looking to collaborate on open-source projects related to web development or software engineering in general. I'm also interested in joining teams working on innovative projects addressing real-world problems.<br><br>
 🛠️📈 I'm seeking assistance to stay updated on the latest trends and best practices in software development, especially in areas like cloud computing, machine learning, and cybersecurity.<br><br>
