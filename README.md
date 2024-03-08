@@ -1,8 +1,7 @@
-# Profile 
+# Welcome 👋 to my GitHub profile, I, am...
 [![GIF](https://i.redd.it/thj41ymmh0351.gif)](https://i.redd.it/thj41ymmh0351.gif)
 
-## Welcome to my GitHub profile! 👋
-
+## 
 ### 💫 About me:
 🔭⚡Hello! I'm Oscar Uriel, a recent graduate software developer in computer engineering from UPIICSA, with a course at 4Geeks to enhance my skills in web development. Additionally, I have an internship in Traffic Engineering, Secretary of Citizen Security, CDMX, where I supervise and document traffic events, optimize workflow, and apply effective communication skills.<br><br>
 🌐💻 Currently, I'm focused on refining my skills in full-stack web development and exploring new technologies to enhance my software development experience.<br><br>
